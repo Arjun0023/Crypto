@@ -6,7 +6,7 @@ Crypto Price Tracker is a Chrome extension that allows users to track real-time 
 
 ## Features
 
-- Displays real-time prices of the top 10 cryptocurrencies.
+- Displays real-time prices of the cryptocurrencies.
 - Updates prices every second to ensure accuracy.
 - Provides visual indicators for price changes (upward or downward).
 - Allows users to easily track cryptocurrency prices without leaving their browser.
