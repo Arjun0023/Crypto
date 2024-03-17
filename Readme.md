@@ -27,4 +27,4 @@ To install the Crypto Price Tracker Chrome Extension, follow these steps:
 
 Once installed, the Crypto Price Tracker extension will display real-time prices of the top 10 cryptocurrencies in your Chrome toolbar. Prices are updated automatically every second, providing you with accurate and timely information on cryptocurrency market trends.
 
-[text](<public\2024-03-17 21-26-30.mkv>)
+[video](<public\2024-03-17 21-26-30.mkv>)
