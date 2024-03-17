@@ -1,6 +1,7 @@
 # Crypto Price Tracker Chrome Extension
 
 Deployed Link :- https://crypto-mu-tawny.vercel.app/
+video :- https://drive.google.com/file/d/1GBDpwni8k-mjfSUHaMcH3DrLD_Ewzmqb/view?usp=sharing
 
 ## Overview
 
